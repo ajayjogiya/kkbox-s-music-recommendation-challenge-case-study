@@ -35,4 +35,4 @@ id(id that will be used for submission) , msno , song_id , source_system_tab�
 F. sample_submission.csv
 id , target
 
-Here is my blog link : https://medium.com/@ajayjogiyaofficial.
+Here is my blog link : https://medium.com/@Ajay_Jogiya/wsdm-kkboxs-music-recommendation-challenge-9788e1edfe1e.
