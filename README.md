@@ -35,3 +35,4 @@ id(id that will be used for submission) , msno , song_id , source_system_tab�
 F. sample_submission.csv
 id , target
 
+Here is my blog link : https://medium.com/@ajayjogiyaofficial.
