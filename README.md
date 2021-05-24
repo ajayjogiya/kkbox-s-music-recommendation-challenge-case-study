@@ -36,3 +36,10 @@ F. sample_submission.csv
 id , target
 
 Here is my blog link : https://medium.com/@Ajay_Jogiya/wsdm-kkboxs-music-recommendation-challenge-9788e1edfe1e.
+
+Deployment Video
+
+https://user-images.githubusercontent.com/81435458/119295781-492fd880-bc75-11eb-9e3e-834536bba350.mp4
+
+
+
